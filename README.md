@@ -24,10 +24,17 @@ This repository contains various projects completed during my internship in **AI
 
 ## 📚 Internship Learning Roadmap  
 
-**Module I:** Getting Started With R (Basics of R Programming)   
-**Module II:** High-dimensional Data Analysis Using Machine Learning in R 
+**Module I:** Getting Started With R (Basics of R Programming)
+-  Introduction to RStudio, project setup, data handling, and basic scripting.
+  
+**Module II:** High-dimensional Data Analysis Using Machine Learning
+- Focused on statistical techniques, visualiSation, and handling omics-scale datasets.
+
 **Module III:** Functional Genomics Data Analysis   
+- Includes pre-processing, normalization, and differential expression analysis for genomic datasets.
+
 **Module IV:** Case Studiesusing Public Datasets and Building Complete End-to-End ML Pipelines  
+- Applications Using RNA-seq and Microarray Data: Involving end-to-end pipeline analysis from data preprocessing, machine learning to pathway analysis and result interpretation.
 
 ---
 
@@ -35,8 +42,6 @@ This repository contains various projects completed during my internship in **AI
 
 - **Programming Languages:** R, Python (where applicable)  
 - 
-
----
 
 ---
 
