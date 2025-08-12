@@ -9,11 +9,10 @@ Here, I’m documenting my progress as I work through different bioinformatics p
 
 1. [About This Repository](#-about-this-repository)  
 2. [Internship Learning Roadmap](#-internship-learning-roadmap)  
-3. [Skills & Tools Covered](#-skills--tools-covered)  
-4. [Project Structure](#-project-structure)  
-5. [My Goal](#-my-goal)  
-6. [Projects](#-projects)  
-7. [Connect with Me](#-connect-with-me)  
+3. [Skills & Tools Covered](#-skills--tools-covered)   
+4. [My Goal](#-my-goal)  
+5. [Projects](#-projects)  
+6. [Connect with Me](#-connect-with-me)  
 
 ---
 
